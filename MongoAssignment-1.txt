@@ -1,0 +1,13 @@
+1. to find all movies with rating =3
+2. to find all mivies with rating =3 and price=340
+3. to find all movies with rating >3 and sort them ratingwise
+4. to find all movies with rating >3 and rating < 6
+5.to find all movies with rating >3 and rating < 6 
+6.to find all movies with rating >3 and rating < 6 
+7. to find all movies with price = either 200 or 340 or 240
+8.to find all movies with price is not  either 200 or 340 or 240
+9. to find all movies with odd rating 
+10.to find all movies with ticket_no is either 
+11.to find all movies in which 3 actors are there in the list
+12. find all movies in which Amitabh has acted
+ 
